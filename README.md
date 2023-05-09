@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2>¡¡Hola a todos!! Soy Luis Ángel 👋</h2>
+Ingeniero Eléctrico Electrónico y un apasionado en la programación de microprocesadores💻<br><br>
+    <img align="right" width="58%"   alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<!--
-**angelkp570/angelkp570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Sobre mí 👩</h3> 
 
-Here are some ideas to get you started:
+- Soy un apasionado de la programación 
+- Actualmente me encuentro desarrollando nuevas habilidades de programación con diferentes cursos y certificaciones 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Intereses 😊</h3>
+
+- Mis intereses son el desarrollo de aplicaciones.
+- Me interesa el mundo diseño de circuitos impresos. 
+ 
+
+<h3>Lenguajes y herramientas 👩‍💻</h3>
+
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="50" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
+<br>
+<br>
+<br>
+
+<h2 align="center">🚀Conéctate Conmigo!</h2>      
+ <p align="center"> 
+<a target="_blank" href="https://www.linkedin.com/in/lahp17/">
+  <img alt="lahp17" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/angelh_codes/">
+  <img alt="lahp17" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+</p>
+<br>
