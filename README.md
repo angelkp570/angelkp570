@@ -2,7 +2,7 @@
 Ingeniero Eléctrico Electrónico y un apasionado en la programación de microprocesadores💻<br><br>
     <img align="right" width="58%"   alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
-<h3>Sobre mí 👩</h3> 
+<h3>Sobre mí :man:</h3> 
 
 - Soy un apasionado de la programación 
 - Actualmente me encuentro desarrollando nuevas habilidades de programación con diferentes cursos y certificaciones 
